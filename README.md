@@ -10,6 +10,7 @@
 ![Proxy](https://img.shields.io/badge/Proxy-Enterprise-cyan?logo=cloudflare&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Umbrella-Expert-0066CC?logo=cisco&logoColor=white)
 ![Trellix](https://img.shields.io/badge/Skyhigh/Trellix/McAfee-Expert-FF6B00?logo=trello&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-15%2B_Years-yellow)
 
 ## 🛡️ Technical Expertise
 ### **Security Platforms**
